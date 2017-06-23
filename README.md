@@ -1,3 +1,4 @@
+clone from https://github.com/lianggzone/netty-im.git
 # netty-im
 
 ###  协议包:
@@ -38,4 +39,4 @@
 
 31-July-2016 - version 0.1 released
 
-First stable release.
+First stable release. 
